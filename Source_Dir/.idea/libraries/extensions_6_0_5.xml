@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="extensions-6.0.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../extensions-6.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
